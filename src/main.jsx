@@ -18,6 +18,13 @@ const skills = [
 const projects = [
   { number: '01', title: '2D Graphics Editor', type: 'C PROGRAMMING', icon: Layers3, description: 'A menu-driven 2D graphics editor built with a structured interface for performing graphical operations through modular C programming.', tags: ['Functions', 'Control structures', 'Modular design'] },
   { number: '02', title: 'Bluetooth Controlled Car', type: 'BLUETOOTH & EMBEDDED SYSTEMS', icon: Cpu, description: 'A wireless movement system that receives Bluetooth commands to control forward, backward, left, and right movement.', tags: ['Bluetooth', 'Electronics', 'Hardware control'] },
+  {
+    number: '03',
+    title: 'ManganQuest',
+    type: 'AI & DATA SCIENCE',
+    icon: BrainCircuit,
+    description: 'An AI-powered platform for manganese exploration and production analysis.'
+}
 ]
 
 const certifications = [
